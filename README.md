@@ -1,12 +1,18 @@
 ## Hi there 👋
-## Hello
-Gello
+
+sdsdfsdf
+
+I'm a student at UIC (ideally) looking to get into the video game production industry. C++ is my strong suit but I'm also learning Luau on the side!
+
+In the near future, I'd like to finish my project, [Food Fight Defense](https://github.com/jignacio1299/Food-Fight-Defense)
+🔭 I’m currently working on ...
+- 
 <!--
 **jignacio1299/jignacio1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
